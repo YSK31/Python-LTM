@@ -1,0 +1,27 @@
+class CafeteriaOrderSystem:
+    def __init__(self):
+        self.orders = {}
+    
+    def add_order(self, employee_id, name, meal_type, quantity):
+        if employee_id in self.orders:
+            raise ValueError("Order already exists")
+        self.orders[employee_id] = {"name": name, "meal_type": meal_type, "quantity": quantity, "status": "Confirmed"}
+        return self.orders
+    
+    def update_quantity(self, employee_id, new_quantity):
+        if employee_id not in self.orders:
+            raise KeyError("Order not found")
+        self.orders[employee_id]["quantity"] = new_quantity
+        return self.orders
+    
+    def get_order_details(self, employee_id):
+        if employee_id not in self.orders:
+            raise KeyError("Order not found")
+        return self.orders[employee_id]
+    
+    def get_bulk_orders(self, minimum_quantity):
+        emp_ids = []
+        for key,keyval in self.orders.items():
+            if keyval["quantity"] >= minimum_quantity:
+                emp_ids.append(key)
+        return emp_ids
