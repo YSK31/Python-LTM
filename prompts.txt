@@ -1,0 +1,2 @@
+I want a clear cut nice dataframe creation with 5 columns and 10 rows with basic data Just for learning purpose. I want all data cleaning functions in pandas to demonstrate (don't make advance level). just for pandas learning with casual syntaxing and understanding (avoid big big coments)
+inside the each text cell below the heading and explanation, give the syntax: df.fillna(<value>) in this. for all cells neatly and also explore google if your missing any of data cleaning techniques usin pandas
