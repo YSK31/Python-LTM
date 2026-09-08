@@ -1,2 +1,8 @@
 I want a clear cut nice dataframe creation with 5 columns and 10 rows with basic data Just for learning purpose. I want all data cleaning functions in pandas to demonstrate (don't make advance level). just for pandas learning with casual syntaxing and understanding (avoid big big coments)
 inside the each text cell below the heading and explanation, give the syntax: df.fillna(<value>) in this. for all cells neatly and also explore google if your missing any of data cleaning techniques usin pandas
+
+
+
+
+I want to showcase functionality of all commands with nice website means like based on python code snippet the output should be displayed and also interactive kind off it should be (not a bsci website), a nice interactive website.. so that it would be easier to understandm ore nicely... Come on give a downalodabled html file code in a cell (no matter how many lines code will be, the css should be top notch, show your creativity)..
+Incldue all the code snippets and the output for all which are there in this colab dont leave anything and kep it in thr website.. I want everything.. and also keep visual lile. for example: if dropna is there means show what all containing Nan rows highlight neatly those in table so that its easier to understand.. COme on.. I want for al like this very neatly
