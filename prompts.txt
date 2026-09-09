@@ -6,3 +6,9 @@ inside the each text cell below the heading and explanation, give the syntax: df
 
 I want to showcase functionality of all commands with nice website means like based on python code snippet the output should be displayed and also interactive kind off it should be (not a bsci website), a nice interactive website.. so that it would be easier to understandm ore nicely... Come on give a downalodabled html file code in a cell (no matter how many lines code will be, the css should be top notch, show your creativity)..
 Incldue all the code snippets and the output for all which are there in this colab dont leave anything and kep it in thr website.. I want everything.. and also keep visual lile. for example: if dropna is there means show what all containing Nan rows highlight neatly those in table so that its easier to understand.. COme on.. I want for al like this very neatly
+
+
+
+
+
+I will provide zip files in colab files. the script runnig should go through each zip file and search for specification.md file and search for class <classname> and give me the zipfile name and class name in tabular form in output, so that i could name what alll class names i have to use in each file... Give me that automated script nicely.
