@@ -9,3 +9,7 @@ https://colab.research.google.com/drive/1bkxdWN0vTS7t5YHPz2VTG_dNRUa1J5o-?usp=sh
 
 ## Pandas_Practice_Solutions (Tool Questions):-
 https://colab.research.google.com/drive/1BO4JukrahAbQrWQpB7zhxujfMHfcBe47?usp=sharing
+
+
+
+https://colab.research.google.com/drive/1oMRofUG_JNyRCs0b5GlkiplHHDbpDx8n?usp=sharing
